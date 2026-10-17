@@ -1,0 +1,15 @@
+{
+  "name": "wallabag",
+  "title": "Wallabag",
+  "mount": "settings",
+  "description": "Read your Wallabag saved articles on the device as EPUB.",
+  "author": "Diirge",
+  "version": "1.2.0",
+  "files": [
+    "manifest.json",
+    "device.json",
+    "plugin.js",
+    "README.md",
+    "DETAILS.md"
+  ]
+}
